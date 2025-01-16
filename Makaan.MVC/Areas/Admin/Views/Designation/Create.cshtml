@@ -1,0 +1,15 @@
+﻿@model CreateDesignationVM
+<div class="container">
+    <div class="card-header py-3 d-flex justify-content-between align-items-center">
+        <h6 class="m-0 font-weight-bold text-primary">Create Designation</h6>
+        <a asp-action="Index" asp-controller="Designation" class="btn btn-outline-primary">Return List</a>
+    </div>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Name">Name*</label>
+            <input asp-for="Name" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
+            <span asp-validation-for="Name" class="form-text text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>

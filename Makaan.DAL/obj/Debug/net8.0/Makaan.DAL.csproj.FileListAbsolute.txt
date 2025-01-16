@@ -1,0 +1,17 @@
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\bin\Debug\net8.0\Makaan.DAL.deps.json
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\bin\Debug\net8.0\Makaan.DAL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\bin\Debug\net8.0\Makaan.DAL.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\bin\Debug\net8.0\Makaan.CORE.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\bin\Debug\net8.0\Makaan.CORE.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.csproj.AssemblyReference.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.AssemblyInfoInputs.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.AssemblyInfo.cs
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.csproj.Up2Date
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\refint\Makaan.DAL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\ref\Makaan.DAL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\bin\Debug\net8.0\Makaan.DAL.runtimeconfig.json
+C:\Users\Second\Desktop\Task\Makaan\Makaan.DAL\obj\Debug\net8.0\Makaan.DAL.genruntimeconfig.cache

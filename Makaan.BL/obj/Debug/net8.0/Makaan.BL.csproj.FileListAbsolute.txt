@@ -1,0 +1,17 @@
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.BL.deps.json
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.BL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.BL.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.CORE.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.DAL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.DAL.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\bin\Debug\net8.0\Makaan.CORE.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.csproj.AssemblyReference.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.AssemblyInfoInputs.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.AssemblyInfo.cs
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.csproj.CoreCompileInputs.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.csproj.Up2Date
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\refint\Makaan.BL.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\Makaan.BL.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.BL\obj\Debug\net8.0\ref\Makaan.BL.dll

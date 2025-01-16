@@ -1,0 +1,36 @@
+﻿@model UpdateAgentVM
+<div class="container">
+    <div class="card-header py-3 d-flex justify-content-between align-items-center">
+        <h6 class="m-0 font-weight-bold text-primary">Update Agent</h6>
+        <a asp-action="Index" asp-controller="Agent" class="btn btn-outline-primary">Return List</a>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="FullName">Full Name*</label>
+            <input value="@Model.FullName" asp-for="FullName" class="form-control" id="exampleInputEmail1" placeholder="Enter Full Name">
+            <span asp-validation-for="FullName" class="form-text text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="DesignationId">Designation*</label>
+            <select asp-for="DesignationId">
+                <option selected disabled>Select Designation</option>
+                @if (ViewBag.Designation != null)
+                {
+                    @foreach (var item in ViewBag.Designation)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                }
+            </select>
+            <span asp-validation-for="DesignationId" class="form-text text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Image">Image*</label>
+            <input asp-for="Image" class="form-control" id="exampleInputEmail1">
+            <span asp-validation-for="Image" class="form-text text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>

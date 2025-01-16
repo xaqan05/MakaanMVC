@@ -1,0 +1,12 @@
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\bin\Debug\net8.0\Makaan.CORE.deps.json
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\bin\Debug\net8.0\Makaan.CORE.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\bin\Debug\net8.0\Makaan.CORE.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.AssemblyInfoInputs.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.AssemblyInfo.cs
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\refint\Makaan.CORE.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.pdb
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\ref\Makaan.CORE.dll
+C:\Users\Second\Desktop\Task\Makaan\Makaan.CORE\obj\Debug\net8.0\Makaan.CORE.csproj.AssemblyReference.cache
